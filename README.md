@@ -1,5 +1,5 @@
+### Analysis of Algorithm Semester Project
 # Wagner-Fischer Algorithm
-## Analysis of Algorithm Semester Project
 The Wagner-Fischer algorithm is a dynamic programming technique used to compute the edit distance (also known as Levenshtein distance) between two strings. The edit distance is a measure of how many single-character edits (insertions, deletions, or substitutions) are needed to change one string into the other.
 
 ## Time Complexity
